@@ -41,24 +41,6 @@ Passionate software engineer specializing in innovative solutions in web develop
 Brief description of the project and its objectives.
 
 **Technologies Used:**  
-- Technology 1
-- Technology 2
-- Technology 3
-
-**Features:**  
-- Feature 1
-- Feature 2
-- Feature 3
-
-**Usage:**  
-How to use the project, with example commands or code snippets.
-
-### Project 3: Project Name
-
-**Description:**  
-A quick and temporary to-do app designed to keep you organized while you work. Effortlessly jot down tasks and stay focused on what matters most.
-
-**Technologies Used:**  
 - HTML
 - CSS
 - JavaScript
@@ -70,4 +52,3 @@ A quick and temporary to-do app designed to keep you organized while you work. E
 
 **Usage:**  
 <a href= "#">Click Here</a>
-
