@@ -2,19 +2,6 @@
 
 Welcome to the repository containing the projects I worked on during my internship at CipherByte Technologies. This README provides an overview of the projects, their purpose, and how to set them up.
 
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Projects](#projects)
-  - [Project 1: Project Name](#project-1-project-name)
-  - [Project 2: Project Name](#project-2-project-name)
-  - [Project 3: Project Name](#project-3-project-name)
-- [Setup and Installation](#setup-and-installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
-
 ## Introduction
 
 This repository contains the projects I developed during my internship at CipherByte Technologies. Each project includes its own directory with relevant files and documentation.
